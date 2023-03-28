@@ -27,7 +27,7 @@ public static void main(String[] args)
    Addition3 Aob=()->
    {
 	  
-	   System.out.println("Addition="+(4+1));
+	   System.out.println("welcome");
    };
    Aob.add();
    Aob.disp();

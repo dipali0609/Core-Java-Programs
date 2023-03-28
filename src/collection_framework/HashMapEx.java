@@ -12,10 +12,7 @@ public class HashMapEx
 		hs.put("Four", 4);
 		hs.put("five", 5);
 		hs.put("six", 6);
-		hs.put("seven", 7);
-		
-		
-		
+		hs.put("seven", 7);	
 		
 	}
 

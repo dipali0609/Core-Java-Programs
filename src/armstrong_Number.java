@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//n th power of its digit is sum is equal to original number
 public class armstrong_Number
 {
 	public static void main(String[] args) 

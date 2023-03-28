@@ -23,7 +23,8 @@ public class LambdaExpressionReturnTypeWithParameter {
 //		    	   System.out.println("sum="+aob.add(9, 5));
 		    	   
 		    	   Addition2 aob=(i,j)->i+j;
-		    	   System.out.println("sum="+aob.add(9, 5));
+		    	   int a=aob.add(9, 5);
+		    	   System.out.println("sum="+a);
 		    	   
 		    	   Runnable rob=()->{
 		    		   System.out.println("inside run ");
